@@ -12,7 +12,7 @@ Seccess is green.
 
 ## Installation
 
-Install my-project with go
+Install the package with go
 
 ```bash
   go get github.com/gootibi/tintlog
